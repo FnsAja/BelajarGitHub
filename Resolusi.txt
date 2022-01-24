@@ -2,3 +2,4 @@ Resolusi Mekel :
 - Bisa menggunakan flutter dalam 2 bulan
 - Bisa menggunakan framework JS dalam 1 bulan
 - Bisa Spring java
+- Nyoba branch
