@@ -1,5 +1,4 @@
 Resolusi Mekel : 
-- Dapat kerja tahun ini
 - Bisa menggunakan flutter dalam 2 bulan
 - Bisa menggunakan framework JS dalam 1 bulan
 - Bisa Spring java
